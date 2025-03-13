@@ -1,0 +1,45 @@
+1. request user to enter a number 
+while the number is greater than or equal to zero
+	store the number into a variable called “positive number” 
+	request a second number from the user 
+	if the second number is greater than greater than “positive number” 
+		store second number as “positive number”
+		request user to enter another number until the second number is equal to zero
+	when the second number is equal to zero 
+	print out “positive number”
+
+2. request the user’s name
+store the user’s name into a variable called “first_name”
+print out “first_name” and “Hello, World”
+
+3. set sum_of_numbers to zero
+set counter to zero
+get an integer 
+add the integer to sum_of_numbers
+add one to counter 
+while counter>0
+	get a second integer 
+	add the second integer to sum_of_numbers
+	add one to counter 
+calculate the average by dividing sum_of_numbers by counter
+print average 
+
+
+4. get item name from the grocery list
+if item is not bought
+	store the item name in list called “food_items”
+arrange “food_items” in alphabetic order 
+print out “food_items”
+
+5. read the numbers called X and Y from memory
+calculate S by adding X and Y
+calculate A by dividing S by 2
+calculate P by multiplying X and Y
+write the numbers S and A and P to memory
+
+
+
+
+
+
+	
